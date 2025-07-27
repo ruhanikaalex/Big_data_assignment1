@@ -177,6 +177,10 @@ df_clean.to_csv('uber_enhanced.csv', index=False)
 <img width="635" height="488" alt="Screenshot 2025-07-25 180016" src="https://github.com/user-attachments/assets/235ac20b-18f2-45cc-890a-24f34efb96e8" />
 <img width="652" height="510" alt="Screenshot 2025-07-25 180109" src="https://github.com/user-attachments/assets/1474b215-7e6a-483b-b822-4197a7c701be" />
 ```
+## Outputs
+<img width="635" height="488" alt="Screenshot 2025-07-25 180016" src="https://github.com/user-attachments/assets/51480bca-5d2f-4211-a731-af4b441a7d5d" />
+
+<img width="652" height="510" alt="Screenshot 2025-07-25 180109" src="https://github.com/user-attachments/assets/eb1183e9-964a-4ab0-a162-6ea488702a0a" />
 
 ## Dashboard
 <img width="960" height="538" alt="Dasboard" src="https://github.com/user-attachments/assets/7ebb97f5-5d34-4d38-82f3-86b2e53b6b79" />
